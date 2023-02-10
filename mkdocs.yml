@@ -1,1 +1,134 @@
-site_name: My Docs
+# Project Information
+site_name: C202 宿舍
+site_description: C202 Dormitory
+site_author: C202
+site_url: https://c202.dormitory.top
+# strict: false
+
+# Repository
+repo_name: 'C202 Dormitory'
+repo_url: 'https://github.com/C202-Dorm/C202-Dorm.github.io'
+edit_uri: 'edit/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2022 - 2023 | C202 宿舍'
+
+# Theme
+theme:
+  name: material
+  # custom_dir: 'mkdocs-material/material'
+  custom_dir: overrides
+  static_templates:
+    - 404.html
+  language: 'zh'
+  palette:
+    - scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: 亮色模式
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: 暗色模式
+  include_search_page: false
+  search_index_only: true
+  favicon: 'favicon.ico'
+  icon:
+    logo: 'material/school'
+    edit: edit
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.expand
+    - content.tabs.link
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+# Customization
+# extra:
+
+extra_javascript:
+  - '_static/js/extra.js?v=16'
+  - '_static/js/math-csr.js?math-csr'
+  - 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+  # - 'assets/vendor/mathjax/es5/tex-mml-chtml.js?math-csr'
+
+extra_css:
+  - '_static/css/extra.css?v=14'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: ""
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Contents
+nav:
+  - 主页: 
+    - C202 宿舍: index.md
+    - 概述: summary.md
+    - 主题: theme.md
+    # - 给我们打钱: collect.md
+  - 人物:
+    - 概要: character/index.md
+  - 历史:
+    - 总览: history/index.md
+    - 第一次宿舍大战: history/Dorm-War-I.md
+    - U 形核泄漏事件: history/U-shaped-nuclear-leakage.md
+  - 宿舍文学:
+    - 介绍: literature/index.md
+  - 梗文化:
+    - 介绍: slang/index.md
+  # - 新闻:
