@@ -2,67 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://c202.dormitory.top/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/summary/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/theme/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/character/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/gcj/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/lsy/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/pxy/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/tly/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/tzj/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/character/yzc/</loc>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/history/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/history/Dorm-War-I/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/history/U-shaped-nuclear-leakage/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/literature/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/Anecdotes/Anecdotes-I/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/Anecdotes/Anecdotes-II/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/Anecdotes/Anecdotes-III/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/C202-records/aristocrat-LuYue/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/C202-records/biography-ChengJun/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/C202-records/emperor-YongZheng/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/C202-records/brief-history/brief-history/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://c202.dormitory.top/literature/essay/historical-lamentation/</loc>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/slang/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/test-page/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/test-page/admonition/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/test-page/latex/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://c202.dormitory.top/test-page/markdown/</loc>
-         <lastmod>2023-02-10</lastmod>
+         <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
