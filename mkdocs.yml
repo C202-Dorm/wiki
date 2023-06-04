@@ -36,6 +36,7 @@ theme:
   include_search_page: false
   search_index_only: true
   favicon: 'favicon.ico'
+  music: false # Full of bugs!
   icon:
     logo: 'material/school'
     edit: edit
@@ -118,17 +119,35 @@ markdown_extensions:
 nav:
   - 主页: 
     - C202 宿舍: index.md
-    - 概述: summary.md
+    # - 概述: summary.md
     - 主题: theme.md
     # - 给我们打钱: collect.md
   - 人物:
     - 概要: character/index.md
+    - 高诚俊: character/gcj.md
+    - 梁书源: character/lsy.md
+    - 裴祥云: character/pxy.md
+    - 谭鲁粤: character/tly.md
+    - 唐子俊: character/tzj.md
+    # - 余镇丞: character/yzc.md
   - 历史:
     - 总览: history/index.md
     - 第一次宿舍大战: history/Dorm-War-I.md
     - U 形核泄漏事件: history/U-shaped-nuclear-leakage.md
   - 宿舍文学:
     - 介绍: literature/index.md
-  - 梗文化:
-    - 介绍: slang/index.md
+    - 《舍记》: 
+      - 二〇二简史（已断更）: 
+        - 二〇二简史: literature/C202-records/brief-history/brief-history.md
+      - 雍正本纪: literature/C202-records/emperor-YongZheng.md
+      - 鲁粤世家: literature/C202-records/aristocrat-LuYue.md
+      - 诚俊列传: literature/C202-records/biography-ChengJun.md
+    - 《轶 · 趣》系列:
+      - 轶事趣闻（一）: literature/Anecdotes/Anecdotes-I.md
+      - 趣闻轶事（二）: literature/Anecdotes/Anecdotes-II.md
+      - 趣事轶闻（三）: literature/Anecdotes/Anecdotes-III.md
+    - 杂文:
+      - 《哀史辞》: literature/essay/historical-lamentation.md
+  # - 梗文化:
+  #   - 介绍: slang/index.md
   # - 新闻:

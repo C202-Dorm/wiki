@@ -23,12 +23,10 @@
     giscus.setAttribute("data-theme", theme);
   }
 
+  document.onclick = () => setInterval (setcomment, 500);
+
   document.addEventListener("DOMContentLoaded", function () {
     var ref = document.querySelector("[data-md-component=palette]");
-    ref.addEventListener("change", setcomment);
-
-    document.onclick = () => setInterval (setcomment, 500);
-
-    setcolor ();
+    ref.addEventListener("change", setcomment); setcolor ();
   });
 </script>
